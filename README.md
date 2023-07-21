@@ -10,7 +10,6 @@ Looking forward, I am eager to secure a Summer 2024 internship that will enable 
 
 ---
 ### 🧰 Languages and Frameworks
-<br />
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
