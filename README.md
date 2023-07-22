@@ -17,7 +17,7 @@ Looking forward, I am eager to secure a Summer 2024 internship that will enable 
 
 <img align="left" alt="React" width="30px" style="margin-top:5px;padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="margin-top:5px;padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img style="margin-top:5px;background-color:white; padding:3px" align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img style="margin-top:5px;background-color:white; padding:3px;padding-right:10px" align="left" alt="Nextjs" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img style="margin-top:5px;background-color:white; padding:3px; margin-left:8px; margin-right:8px;" align="left" alt="threejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" />
 
 <img align="left" alt="mongo" width="30px" style="margin-top:5px;padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
