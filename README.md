@@ -32,12 +32,7 @@ Looking forward, I am eager to secure a Summer 2024 internship that will enable 
 
 
 #
-
-<div display="flex">
-
 ![Mike's github stats](https://github-readme-stats.vercel.app/api?username=mike10911&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike10911)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 
