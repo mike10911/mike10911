@@ -4,9 +4,9 @@
 
 ## Code, Camera, Action:
 
-I am a highly motivated individual pursuing a combined major in computer science and theatre, with a unique blend of technical and creative skills that make me a valuable asset in any team or project. With a solid foundation in computer programming and web development, coupled with a deep appreciation for the arts, I bring a well-rounded perspective to everything I do. Currently, I am gaining practical experience as a Web Developer at HackBeanpot and a Software Developer Co-op at Wood Mackenzie, collaborating with diverse professionals to sharpen my technical skills and foster innovation.
+I am a highly motivated individual pursuing a combined major in computer science and theatre, with a unique blend of technical and creative skills that make me a valuable asset in any team or project. With a solid foundation in computer programming and web development, coupled with a deep appreciation for the arts, I bring a well-rounded perspective to everything I do. Currently, I am gaining practical experience as the Tech Lead at HackBeanpot and a Software Engineer Co-op at Wood Mackenzie, collaborating with diverse professionals to sharpen my technical skills and foster innovation.
 
-Looking forward, I am eager to secure a Summer 2024 internship that will enable me to continue developing my skills and contributing to impactful projects. If you are seeking a dynamic team member with a passion for technology and the arts, I would be thrilled to connect and explore potential opportunities.
+Looking forward, I am eager to secure a Fall 2024 internship/co-op that will enable me to continue developing my skills and contributing to impactful projects. If you are seeking a dynamic team member with a passion for technology and the arts, I would be thrilled to connect and explore potential opportunities.
 
 ---
 ### 🧰 Languages and Frameworks
